@@ -1,4 +1,5 @@
 Rencana content araara
+- belajar layout pada flutter
 - git & github
 - flutter
 - oop
