@@ -1,5 +1,8 @@
 Rencana content araara
 - belajar layout pada flutter
+- row
+- column
+- dan stack
 - git & github
 - flutter
 - oop
