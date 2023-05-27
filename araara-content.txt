@@ -1,6 +1,7 @@
 Rencana content araara
 - belajar layout pada flutter
+- stack aja cukup haha
 - git & github
 - flutter
 - oop
-- dart dasar
+
