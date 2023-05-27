@@ -1,0 +1,5 @@
+Rencana content araara
+- git & github
+- flutter
+- oop
+- dart dasar
