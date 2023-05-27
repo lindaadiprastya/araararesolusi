@@ -1,3 +1,4 @@
 araara resolusi
 - konsistensi untuk belajar flutter setiap hari
 - ingin bergelut di flutter
+- ingin membangun chanel youtube
