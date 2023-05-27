@@ -1,0 +1,4 @@
+Rencana content araara
+- flutter
+- oop
+- dart dasar
